@@ -81,8 +81,8 @@ LodgeBillingLab/
 
 | Guest | Room | Nights | Extras | Paid | Expected result |
 |-------|------|--------|--------|------|-----------------|
-| Mary Banda | Standard | 2 | 100 | 500 | Total K 800.00, balance K 300.00 |
-| John Phiri | Deluxe | 5 | 200 | 1000 | Total K 2812.50, balance K 1812.50 |
+| Moses Nkaka | Standard | 2 | 100 | 500 | Total K 800.00, balance K 300.00 |
+| Norah Chisanga | Deluxe | 5 | 200 | 1000 | Total K 2812.50, balance K 1812.50 |
 | (blank) | Deluxe | 3 | | | Error: please enter the guest name |
 | Any | Family | abc | | | Error: nights must be a whole number |
 
@@ -93,15 +93,4 @@ LodgeBillingLab/
 - Bills are not saved to disk or a database, so they are lost when the app closes
 - Tested by running it in IntelliJ IDEA with JDK 21 and JavaFX 21.0.1Second-year Computer Science student, Mulungushi University, Zambia
 - ## Author
--        FELIX NKAKA	202505808	COMPUTER SCIENCE
--       STEPHANIE CHANDA	202510778	COMPUTER SCIENCE
-  		REGINA NABIYE	202501765	COMPUTER SCIENCE
-  		MARCUS NGOMA	202502708	INFORMATION TECHNOLOGY
-  		ISAAC MITI	202509238	COMPUTER SCIENCE
-  		ISAAC CHIKANDILA 202512191	COMPUTER SCIENCE
-  		BLESSING TEMBO	202501581	INFORMATION TECHNOLOGY
-  		LAWRENCE KOLO	202502125	COMPUTER SCIENCE
-  		LAYTON MUTEBA	202510831	COMPUTER SCIENCE
-  		LUCIE BANDA	202500006	COMPUTER SCIENCE
-  		DICKSON CHIBULU	202500500	COMPUTER SCIENCE
-     	ISAAC MVULA	202507408	COMPUTER SCIENCE
+- Felix Nkaka - Second-year Computer Science student, Mulungushi University, Zambia
